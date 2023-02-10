@@ -5,7 +5,7 @@
 
 - Live Site URL: https://abashidzeofficial.github.io/Tip-calculator/
  
-![desktop-preview](https://user-images.githubusercontent.com/114133338/214028629-efd9c8de-37e7-4e7d-8716-2482e031ca49.jpg)
+![linkdin-project](https://user-images.githubusercontent.com/114133338/218080941-51507733-902f-4c29-a62e-3c426812e193.jpg)
 
 
 ### Built with
