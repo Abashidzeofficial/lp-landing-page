@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.reg-form-container{
+    width: 300px;
+    background-color: #FFF;
+    box-shadow: inset;
+    min-height: 600px;
+    margin:  170px auto; 
+    box-shadow: 5px 10px 18px #888888;
+}
+.username , .name , .email , .password ,.repeat{
+    margin: 15px 15px 15px 15px;
+}
+.email label,.username label,.name label,.password label,.repeat label{
+    display: block;
+    padding-bottom:10px ;
+    
+}
+.gender{
+    display:flex;
+    flex-direction: row;
+    margin: 15px 15px 15px 15px;
+    
+}
+.gender label{
+    cursor: pointer;
+}
+.password input , .repeat input , .username input, .name input,.email input{
+    width: 100%;
+    height: 40px;
+    margin: auto;
+    padding: 10px;
+    cursor: pointer;
+    border-radius:5px;
+    border: 1px solid rgb(99, 97, 97);  
+}
+.password input:hover , .repeat input:hover , .username input:hover, .name input:hover,.email input:hover{
+    background-color: #1ad6aa;
+}
+.reg{
+    margin-top: 20px;
+    width: 100%;
+    height: 35px;
+    background-color:#0d8065 ;
+    border: none;
+    border-radius: 5px;
+    color: #FFF;
+    font-size: 16px;
+}
+.reg:hover{
+    background-color: #11b992;
+    cursor: pointer;
+}
+.reg-btn{
+    text-align: center;
+    margin: 15px 15px 15px 15px;  
+}
+.reg-btn .reg a{
+    text-decoration: none;
+    color: #FFF;
+}
+.sign{
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: rgb(99, 97, 97);
+    font-size: 14px;
+}
+.sign:hover{
+    text-decoration: underline;
+    color: black;   
+}
+
+
+
+
+

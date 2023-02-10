@@ -1,0 +1,92 @@
+
+*{
+    box-sizing: border-box;  
+    font-family: 'Poppins', sans-serif;
+}
+.auth-form-container{
+    width: 300px;
+    min-height: 300px;
+    box-shadow: 5px 10px 18px #888888;
+    margin:  190px auto; 
+    padding: 10px;  
+     
+}
+.auth-form-container label{
+    display: block; 
+    margin-bottom: 5px;
+}
+.blank{
+    margin:10px;
+}
+.blank label{
+    font-size: 15px;
+}
+.user, .pass{
+    width: 100%;
+    height: 35px;
+    border-radius: 8px;
+    /* cursor: pointer;  */
+    border: 1px solid rgb(99, 97, 97); 
+}
+.user:hover , .pass:hover {
+    background-color: #1ad6aa;
+}
+.checker label {
+    display: inline;
+}
+.checker input{
+    margin-left: 11px;
+    margin-top: 19px;
+    cursor: pointer;
+}
+.submit{
+    display: block;
+    margin-top:25px;
+    margin-left: 10px;
+    width: 93%;
+    height: 30px;
+    background-color:#0d8065;
+    border: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #fff;
+}
+.submit:hover{
+    background-color: #11b992;
+}
+.submit a{
+    text-decoration: none;
+    color: #FFF;
+}
+ .forgot{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(99, 97, 97);
+}
+.forgot:hover{
+    color: rgb(99, 97, 97);
+    text-decoration: underline;
+}
+
+
+
+.creatacc a  {
+    display: inline;
+    font-size: 12px;
+    
+}
+h1{
+    display: inline;
+    font-size: 12px;
+}
+.creatacc {
+    display:inline;
+    margin-left: 50px;
+}
+
+
+
