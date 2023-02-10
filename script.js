@@ -5,7 +5,7 @@ const dots = document.querySelectorAll('.laptop-select')
 
 let currentImage = 0
 
-const images = ["/images/lp2.png", "/images/lp3.png", "/images/lp5.png"];
+const images = ["images/lp2.png", "images/lp3.png", "images/lp5.png"];
 
 rightArrow.addEventListener('click', () => {
      if(currentImage < 2){
