@@ -323,13 +323,13 @@ header{
     list-style: none; 
     justify-content: center;
     margin-top: 20px; 
-    margin-left: -100px;
+    margin-left: -200px;
 }
 .nav-link2{
     display: flex;
     text-decoration: none;
-    padding-left: 50px;
-    font-size: 22px; 
+    padding-left: 100px;
+    font-size: 30px; 
 }
 .Signin2:hover{
     color: white;
