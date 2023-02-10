@@ -363,6 +363,9 @@ header{
 .nav-link2:hover{
      color: violet;
 }
+ .cover img{
+    width: 600px;
+}
 
 
 }
